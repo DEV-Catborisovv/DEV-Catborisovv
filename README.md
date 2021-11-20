@@ -1,9 +1,3 @@
-  Header
-
-  Обо мне
-  
-  Языки и инструменты
-  
   ![C++](https://img.shields.io/badge/-C++-1E90FF) 
   ![C#](https://img.shields.io/badge/-C_Sharp-4682B4) 
   
@@ -15,8 +9,5 @@
   ![PAWN](https://img.shields.io/badge/-PAWN-FFFF99)
   ![Lua](https://img.shields.io/badge/-Lua-9932CC)
   
-  ![Lua](https://img.shields.io/badge/-Lua-9932CC)
   ![Python](https://img.shields.io/badge/-Python-4169E1)
-  
-  
-  Мои контакты
+  ![RUST](https://img.shields.io/badge/-RUST-696969)
