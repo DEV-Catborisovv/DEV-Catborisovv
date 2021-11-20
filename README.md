@@ -1,4 +1,4 @@
-  # Languages and Frameworks
+  ## Languages and Frameworks
   ![C++](https://img.shields.io/badge/-C++-1E90FF) 
   ![C#](https://img.shields.io/badge/-C_Sharp-4682B4) 
   ![Qt](https://img.shields.io/badge/-Qt-CFC00) 
