@@ -5,10 +5,18 @@
   Языки и инструменты
   
   ![C++](https://img.shields.io/badge/-C++-1E90FF) 
+  ![C#](https://img.shields.io/badge/-C#-4682B4) 
+  
   ![PHP](https://img.shields.io/badge/-PHP-87CEFA) 
-  ![CSS](https://img.shields.io/badge/-CSS-87CEFA) 
-  ![HTML](https://img.shields.io/badge/-HTML-87CEFA) 
+  ![CSS](https://img.shields.io/badge/-CSS-98FB98) 
+  ![HTML](https://img.shields.io/badge/-HTML-00FF7F) 
   ![JS](https://img.shields.io/badge/-JavaScript-FFA500)
+  
+  ![PAWN](https://img.shields.io/badge/-PAWN-FFFF99)
+  ![Lua](https://img.shields.io/badge/-Lua-9932CC)
+  
+  ![Lua](https://img.shields.io/badge/-Lua-9932CC)
+  ![Python](https://img.shields.io/badge/-Python-4169E1)
   
   
   Мои контакты
