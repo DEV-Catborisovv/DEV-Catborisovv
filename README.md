@@ -1,2 +1,7 @@
-# ServerSamp2.0
-- Development by Catborisovv
+  Header
+
+  Обо мне
+  
+  Языки и инструменты
+  
+  Мои контакты
