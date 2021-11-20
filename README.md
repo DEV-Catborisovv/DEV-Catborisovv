@@ -5,7 +5,7 @@
   Языки и инструменты
   
   ![C++](https://img.shields.io/badge/-C++-1E90FF) 
-  ![C#](https://img.shields.io/badge/-C-Sharp-4682B4) 
+  ![C#](https://img.shields.io/badge/-C_Sharp-4682B4) 
   
   ![PHP](https://img.shields.io/badge/-PHP-87CEFA) 
   ![CSS](https://img.shields.io/badge/-CSS-98FB98) 
