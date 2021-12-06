@@ -1,4 +1,3 @@
-![alt tag](http://vishnevka-dev.fun/github/shapka1.png)​
 
 ## Languages and Frameworks
   ![C++](https://img.shields.io/badge/-C++-1E90FF) 
