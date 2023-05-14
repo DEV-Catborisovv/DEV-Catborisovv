@@ -25,6 +25,5 @@ func main(){
 
 ## Contacts
 
-[TLink]: # 'https://t.me/catborisovv'
-[<kbd>Telegram</kbd>][TLink]  
+[<kbd>[Telegram](https://t.me/catborisovv)</kbd>]
 <kbd>dev.catborisovv@yandex.ru</kbd>
