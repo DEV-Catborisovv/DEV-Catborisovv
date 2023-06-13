@@ -24,6 +24,10 @@ func main(){
 - СУБД (MYSQL, PostreSQL).
 - Язык запросов SQL.
 
+## Top languages
+
+[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Catborisovv&layout=compact](https://github.com/DEV-Catborisovv/) 
+
 ## Contacts
 
 <kbd>[Telegram](https://t.me/catborisovv)</kbd>  
