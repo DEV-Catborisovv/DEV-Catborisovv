@@ -26,7 +26,7 @@ func main(){
 
 ## Top languages
 
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Catborisovv&layout=compact](https://github.com/DEV-Catborisovv/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Catborisovv&layout=compact)](https://github.com/DEV-Catborisovv/) 
 
 ## Contacts
 
